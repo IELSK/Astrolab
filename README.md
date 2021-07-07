@@ -3,7 +3,10 @@
 ## Sobre
 
 Clone do Tinder, criado para a prática de Hooks. Desenvolvido em React.js. 
-
+<br>
+Link do projeto original - <a href="https://github.com/future4code/Pedro-Barbosa/tree/master/semana9/astromatch
+">https://github.com/future4code/Pedro-Barbosa/tree/master/semana9/astromatch
+</a> 
 ### Recursos utilizados
 - Material UI
 - Font Awesome
